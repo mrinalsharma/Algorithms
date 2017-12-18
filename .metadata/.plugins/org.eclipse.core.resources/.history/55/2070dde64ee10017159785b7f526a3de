@@ -1,0 +1,16 @@
+'''
+Created on Dec 14, 2017
+
+@author: mrinal
+'''
+from builtins import int
+
+def diceHelper(chosen:list, dices:int):
+    pass
+
+def diceRoll(dices:int):
+    chosen = []
+    diceHelper(chosen, dices)
+
+if __name__ == '__main__':
+    diceRoll(2)
