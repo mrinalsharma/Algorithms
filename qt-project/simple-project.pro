@@ -157,7 +157,8 @@ DISTFILES = ""
 HEADERS *= ""
 HEADERS = ""
 SOURCES *= "" \
-    src/dice.cpp
+    src/dice.cpp \
+    src/dicesum.cpp
 SOURCES = ""
 
 # include various source .cpp files and header .h files in the build process
